@@ -23,5 +23,6 @@ ew.convert( {
     ],
     # Specify the output name
     "outputname" : "test/test_outout_file.xlsx"
+} )
 
 ```
